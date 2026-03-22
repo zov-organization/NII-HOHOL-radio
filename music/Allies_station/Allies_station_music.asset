@@ -1,0 +1,115 @@
+music = {
+    name = "BlessemallVERALYNN"
+    file = "BlessemallVERALYNN.ogg"
+    volume = 0.80
+}
+music = {
+    name = "BloodOntheRisers"
+    file = "BloodOntheRisers.ogg"
+    volume = 0.80
+}
+music = {
+    name = "BoogieWoogieBugleBoy"
+    file = "BoogieWoogieBugleBoy.ogg"
+    volume = 0.80
+}
+music = {
+    name = "BritishDecoytrenches"
+    file = "BritishDecoytrenches.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Chantdela2eDB"
+    file = "Chantdela2eDB.ogg"
+    volume = 0.80
+}
+music = {
+    name = "cominginonawingandaprayer"
+    file = "cominginonawingandaprayer.ogg"
+    volume = 0.80
+}
+music = {
+    name = "dambusterstheme"
+    file = "dambusterstheme.ogg"
+    volume = 0.80
+}
+music = {
+    name = "DoorHathoAeDuniyaWalo"
+    file = "DoorHathoAeDuniyaWalo.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Hejsokoly"
+    file = "Hejsokoly.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Hitlerlives"
+    file = "Hitlerlives.ogg"
+    volume = 0.80
+}
+music = {
+    name = "IhaventseenoldHitler"
+    file = "IhaventseenoldHitler.ogg"
+    volume = 0.80
+}
+music = {
+    name = "LaStrasbourgeoise"
+    file = "LaStrasbourgeoise.ogg"
+    volume = 0.80
+}
+music = {
+    name = "LesAfricains"
+    file = "LesAfricains.ogg"
+    volume = 0.80
+}
+music = {
+    name = "libyaChargeCrusader"
+    file = "libyaChargeCrusader.ogg"
+    volume = 0.80
+}
+music = {
+    name = "LittleBoPeephasLostherJeep"
+    file = "LittleBoPeephasLostherJeep.ogg"
+    volume = 0.80
+}
+music = {
+    name = "PraiseTheLordAndPassTheAmmunition"
+    file = "PraiseTheLordAndPassTheAmmunition.ogg"
+    volume = 0.80
+}
+music = {
+    name = "ThebattleofQueenstonHeights"
+    file = "ThebattleofQueenstonHeights.ogg"
+    volume = 0.80
+}
+music = {
+    name = "TheFirthofForth"
+    file = "TheFirthofForth.ogg"
+    volume = 0.80
+}
+music = {
+    name = "TheMarinesHymn"
+    file = "TheMarinesHymn.ogg"
+    volume = 0.80
+}
+music = {
+    name = "USaction"
+    file = "USaction.ogg"
+    volume = 0.80
+}
+music = {
+    name = "USTension"
+    file = "USTension.ogg"
+    volume = 0.80
+}
+music = {
+    name = "WellMeetAgainVeraLynn"
+    file = "WellMeetAgainVeraLynn.ogg"
+    volume = 0.80
+}
+music = {
+    name = "YoureAGrandOldFlag"
+    file = "YoureAGrandOldFlag.ogg"
+    volume = 0.80
+}

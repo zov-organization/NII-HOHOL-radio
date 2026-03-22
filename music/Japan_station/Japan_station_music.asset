@@ -1,0 +1,50 @@
+music = {
+    name = "Battotai"
+    file = "Battotai.ogg"
+    volume = 0.80
+}
+music = {
+    name = "DokiNoSakura"
+    file = "DokiNoSakura.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Gunkanmachi"
+    file = "Gunkanmachi.ogg"
+    volume = 0.80
+}
+music = {
+    name = "JAPAction"
+    file = "JAPAction.ogg"
+    volume = 0.80
+}
+music = {
+    name = "JapArmyMarch"
+    file = "JapArmyMarch.ogg"
+    volume = 0.80
+}
+music = {
+    name = "JAPCalm"
+    file = "JAPCalm.ogg"
+    volume = 0.80
+}
+music = {
+    name = "NipponRikugun"
+    file = "NipponRikugun.ogg"
+    volume = 0.80
+}
+music = {
+    name = "TargetWashington"
+    file = "TargetWashington.ogg"
+    volume = 0.80
+}
+music = {
+    name = "YamatoAction"
+    file = "YamatoAction.ogg"
+    volume = 0.80
+}
+music = {
+    name = "YukinoShingun"
+    file = "YukinoShingun.ogg"
+    volume = 0.80
+}
