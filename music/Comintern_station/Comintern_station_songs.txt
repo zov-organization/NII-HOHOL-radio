@@ -127,15 +127,6 @@ music = {
 }
 
 music = {
-	song = "katyusha"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-music = {
 	song = "marcharty"
 	chance = {
 		modifier = {
@@ -380,6 +371,15 @@ music = {
 
 music = {
 	song = "june"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "katyushaa"
 	chance = {
 		modifier = {
 			factor = 1

@@ -69,11 +69,6 @@ music = {
     volume = 0.80
 }
 music = {
-    name = "katyusha"
-    file = "katyusha.ogg"
-    volume = 0.80
-}
-music = {
     name = "marcharty"
     file = "marcharty.ogg"
     volume = 0.80
@@ -211,5 +206,10 @@ music = {
 music = {
     name = "june"
     file = "june.ogg"
+    volume = 0.80
+}
+music = {
+    name = "katyushaa"
+    file = "katyushaa.ogg"
     volume = 0.80
 }

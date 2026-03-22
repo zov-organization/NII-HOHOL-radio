@@ -158,3 +158,8 @@ music = {
     file = "Wewalkthroughwidefields.ogg"
     volume = 0.80
 }
+music = {
+    name = "WirlagenvorMadagaskar"
+    file = "WirlagenvorMadagaskar.ogg"
+    volume = 0.80
+}
