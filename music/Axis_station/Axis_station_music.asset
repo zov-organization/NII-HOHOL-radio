@@ -1,0 +1,160 @@
+music = {
+    name = "Afrikacorpsmarch"
+    file = "Afrikacorpsmarch.ogg"
+    volume = 0.80
+}
+music = {
+    name = "AlteKameradendieBundeswehr"
+    file = "AlteKameradendieBundeswehr.ogg"
+    volume = 0.80
+}
+music = {
+    name = "BellaCiao"
+    file = "BellaCiao.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Calmetudee"
+    file = "Calmetudee.ogg"
+    volume = 0.80
+}
+music = {
+    name = "DasLiedDerDeutschen"
+    file = "DasLiedDerDeutschen.ogg"
+    volume = 0.80
+}
+music = {
+    name = "DreiLilien"
+    file = "DreiLilien.ogg"
+    volume = 0.80
+}
+music = {
+    name = "EgerlanderMarsch"
+    file = "EgerlanderMarsch.ogg"
+    volume = 0.80
+}
+music = {
+    name = "EinHellerundeinBatzenHeidiHeido"
+    file = "EinHellerundeinBatzenHeidiHeido.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Erika"
+    file = "Erika.ogg"
+    volume = 0.80
+}
+music = {
+    name = "EsistsoschonSoldatzusein"
+    file = "EsistsoschonSoldatzusein.ogg"
+    volume = 0.80
+}
+music = {
+    name = "GruneTeufel"
+    file = "GruneTeufel.ogg"
+    volume = 0.80
+}
+music = {
+    name = "HeilEuropaMarsch"
+    file = "HeilEuropaMarsch.ogg"
+    volume = 0.80
+}
+music = {
+    name = "HohenfriedbergerMarsch"
+    file = "HohenfriedbergerMarsch.ogg"
+    volume = 0.80
+}
+music = {
+    name = "IlCantoDebliArditi"
+    file = "IlCantoDebliArditi.ogg"
+    volume = 0.80
+}
+music = {
+    name = "ImWaldImGrunenWalde"
+    file = "ImWaldImGrunenWalde.ogg"
+    volume = 0.80
+}
+music = {
+    name = "LiliMarleen"
+    file = "LiliMarleen.ogg"
+    volume = 0.80
+}
+music = {
+    name = "MeinSchlesierlandSchlesierlied"
+    file = "MeinSchlesierlandSchlesierlied.ogg"
+    volume = 0.80
+}
+music = {
+    name = "MitBombenundGranaten"
+    file = "MitBombenundGranaten.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Panzerlied"
+    file = "Panzerlied.ogg"
+    volume = 0.80
+}
+music = {
+    name = "PreubischerPrasentiermarsch"
+    file = "PreubischerPrasentiermarsch.ogg"
+    volume = 0.80
+}
+music = {
+    name = "RammsteinReisereise"
+    file = "RammsteinReisereise.ogg"
+    volume = 0.80
+}
+music = {
+    name = "sadsonggermansvibe"
+    file = "sadsonggermansvibe.ogg"
+    volume = 0.80
+}
+music = {
+    name = "SchwarzbraunistdieHaselnuss"
+    file = "SchwarzbraunistdieHaselnuss.ogg"
+    volume = 0.80
+}
+music = {
+    name = "SSmarschiertinFeindesland"
+    file = "SSmarschiertinFeindesland.ogg"
+    volume = 0.80
+}
+music = {
+    name = "TheDeadAwaken"
+    file = "TheDeadAwaken.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Waidmannsheilmarsch"
+    file = "Waidmannsheilmarsch.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Wearelost"
+    file = "Wearelost.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Westerwaldlied"
+    file = "Westerwaldlied.ogg"
+    volume = 0.80
+}
+music = {
+    name = "WirsinddesGeyersschwarzerHaufen"
+    file = "WirsinddesGeyersschwarzerHaufen.ogg"
+    volume = 0.80
+}
+music = {
+    name = "YorckscherMarsch"
+    file = "YorckscherMarsch.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Grenadiermarch"
+    file = "Grenadiermarch.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Wewalkthroughwidefields"
+    file = "Wewalkthroughwidefields.ogg"
+    volume = 0.80
+}

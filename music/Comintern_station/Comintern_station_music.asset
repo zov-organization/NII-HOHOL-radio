@@ -1,0 +1,215 @@
+music = {
+    name = "apple"
+    file = "apple.ogg"
+    volume = 0.80
+}
+music = {
+    name = "BigAction"
+    file = "BigAction.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Calmetude"
+    file = "Calmetude.ogg"
+    volume = 0.80
+}
+music = {
+    name = "darkfalcons"
+    file = "darkfalcons.ogg"
+    volume = 0.80
+}
+music = {
+    name = "darknight"
+    file = "darknight.ogg"
+    volume = 0.80
+}
+music = {
+    name = "FarEasternsong"
+    file = "FarEasternsong.ogg"
+    volume = 0.80
+}
+music = {
+    name = "FleeingFromtheWar"
+    file = "FleeingFromtheWar.ogg"
+    volume = 0.80
+}
+music = {
+    name = "FlyVictoriousSong"
+    file = "FlyVictoriousSong.ogg"
+    volume = 0.80
+}
+music = {
+    name = "freecrew"
+    file = "freecrew.ogg"
+    volume = 0.80
+}
+music = {
+    name = "granate"
+    file = "granate.ogg"
+    volume = 0.80
+}
+music = {
+    name = "halhingol"
+    file = "halhingol.ogg"
+    volume = 0.80
+}
+music = {
+    name = "heroesbrest"
+    file = "heroesbrest.ogg"
+    volume = 0.80
+}
+music = {
+    name = "heroesofoldentimes"
+    file = "heroesofoldentimes.ogg"
+    volume = 0.80
+}
+music = {
+    name = "kalinka"
+    file = "kalinka.ogg"
+    volume = 0.80
+}
+music = {
+    name = "katyusha"
+    file = "katyusha.ogg"
+    volume = 0.80
+}
+music = {
+    name = "marcharty"
+    file = "marcharty.ogg"
+    volume = 0.80
+}
+music = {
+    name = "marchbudyenov"
+    file = "marchbudyenov.ogg"
+    volume = 0.80
+}
+music = {
+    name = "MarchoftheDefendersofMoscow"
+    file = "MarchoftheDefendersofMoscow.ogg"
+    volume = 0.80
+}
+music = {
+    name = "morningpaintslight"
+    file = "morningpaintslight.ogg"
+    volume = 0.80
+}
+music = {
+    name = "moscow"
+    file = "moscow.ogg"
+    volume = 0.80
+}
+music = {
+    name = "OnLongJourney"
+    file = "OnLongJourney.ogg"
+    volume = 0.80
+}
+music = {
+    name = "pervimdelomsamolet"
+    file = "pervimdelomsamolet.ogg"
+    volume = 0.80
+}
+music = {
+    name = "playerformycompany"
+    file = "playerformycompany.ogg"
+    volume = 0.80
+}
+music = {
+    name = "proshanieslavyianky"
+    file = "proshanieslavyianky.ogg"
+    volume = 0.80
+}
+music = {
+    name = "saboteur"
+    file = "saboteur.ogg"
+    volume = 0.80
+}
+music = {
+    name = "smuyglianka"
+    file = "smuyglianka.ogg"
+    volume = 0.80
+}
+music = {
+    name = "songforluygansk"
+    file = "songforluygansk.ogg"
+    volume = 0.80
+}
+music = {
+    name = "songfrodnipro"
+    file = "songfrodnipro.ogg"
+    volume = 0.80
+}
+music = {
+    name = "songredfalcons"
+    file = "songredfalcons.ogg"
+    volume = 0.80
+}
+music = {
+    name = "SovietStorm"
+    file = "SovietStorm.ogg"
+    volume = 0.80
+}
+music = {
+    name = "tachanka"
+    file = "tachanka.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Thebigaction2"
+    file = "Thebigaction2.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Theirlandtheirblood"
+    file = "Theirlandtheirblood.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Tofightwearethemasters"
+    file = "Tofightwearethemasters.ogg"
+    volume = 0.80
+}
+music = {
+    name = "tyman"
+    file = "tyman.ogg"
+    volume = 0.80
+}
+music = {
+    name = "victoryost"
+    file = "victoryost.ogg"
+    volume = 0.80
+}
+music = {
+    name = "voenkomissar"
+    file = "voenkomissar.ogg"
+    volume = 0.80
+}
+music = {
+    name = "wearmyofpeople"
+    file = "wearmyofpeople.ogg"
+    volume = 0.80
+}
+music = {
+    name = "westalinflying"
+    file = "westalinflying.ogg"
+    volume = 0.80
+}
+music = {
+    name = "wholecountrysingingwithus"
+    file = "wholecountrysingingwithus.ogg"
+    volume = 0.80
+}
+music = {
+    name = "YouaremyMoscow"
+    file = "YouaremyMoscow.ogg"
+    volume = 0.80
+}
+music = {
+    name = "Zarodinu"
+    file = "Zarodinu.ogg"
+    volume = 0.80
+}
+music = {
+    name = "june"
+    file = "june.ogg"
+    volume = 0.80
+}
