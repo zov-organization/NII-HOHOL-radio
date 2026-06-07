@@ -1,7 +1,7 @@
-version="1.17.*"
+version="1.18.*"
 tags={
 	"Sound"
 }
 name="IC Radio"
 picture="thumbnail.png"
-supported_version="1.17.3.0"
+supported_version="1.18.*"
